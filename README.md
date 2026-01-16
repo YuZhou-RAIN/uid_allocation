@@ -1,4 +1,4 @@
-[English](./docs/README.en.md) | 中文
+中文 | [文言](./docs/README.lzh.md) | [English](./docs/README.eng.md) | [한국어](./docs/README.kor.md) | [日本語](./docs/README.jpn.md)
 
 # `UID分配` 模块
 具有一定通用性，可以接入其他存档使用

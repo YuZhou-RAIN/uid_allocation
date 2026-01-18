@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "name": "likeamufasa_room_snowball",
-        "description": "likeamufasa的雪球菜单",
+        "name": "UID分配",
+        "description": "分配一个全局唯一的 UID 数字给玩家",
         "uuid": "5c0ef3bb-e60e-450e-ae8d-1aae812416d5",
         "version": [
             1,

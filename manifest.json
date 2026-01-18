@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "UID分配",
+        "description": "分配一个全局唯一的 UID 数字给玩家",
+        "uuid": "5c0ef3bb-e60e-450e-ae8d-1aae812416d5",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "98f15835-010a-4918-b6e0-e547d94cb60a",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

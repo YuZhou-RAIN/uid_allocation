@@ -10,7 +10,7 @@
 ### 初次使用
 执行一次以下命令
 ```mcfunction
-funciton 5c0ef3bb-e60e-450e-ae8d-1aae812416d5/init
+function 5c0ef3bb-e60e-450e-ae8d-1aae812416d5/init
 ```
 ### 部署
 使用一个 0 tick 延迟的循环命令块，持续执行以下命令
